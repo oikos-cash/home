@@ -8,6 +8,7 @@ import {
   Container,
   Row,
   Col,
+  Link,
   UncontrolledTooltip,
 } from "reactstrap";
 
@@ -43,14 +44,20 @@ export default function Footer() {
             <Col md="3" xs="6">
               <Nav>
                 <NavItem>
-                  <a href="/Terms">
+                  {/* <a href="/Terms">
                     Terms of Use
-                  </a>
+                  </a> */}
+                <Link to={"/Terms"}>
+                  Terms of Use
+                </Link>
                 </NavItem>
                 <NavItem>
-                  <a href="/Privacy">
+                  {/* <a href="/Privacy">
                     Privacy Policy
-                  </a>
+                  </a> */}
+                  <Link to={"/Privacy"}>
+                    Privacy Policy
+                  </Link>
                 </NavItem>
               </Nav>
             </Col>
