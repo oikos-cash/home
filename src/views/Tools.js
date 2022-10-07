@@ -146,9 +146,9 @@ export default function Tools() {
                   className="card-background"
                   style={{
                     backgroundImage:
-                    "url(" + require("assets/img/learn.png").default + ")",
+                    "url(" + require("assets/img/userGuide.png").default + ")",
                     backgroundPosition:
-                      "right",
+                      "left",
                   }}
                 >
                   <CardBody className="text-left">

@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
@@ -40,8 +24,8 @@ export default function Prefooter() {
       <div className="section section-pre-footer">
         <div id="pre-footer-areas">
           <Container>
-            <div className="title">
-              <h1>Partners & Sponsors</h1>
+            <div className="title text-center">
+              <h1 className="title mt-0">Partners & Sponsors</h1>
             </div>
           </Container>
           <br />
@@ -58,9 +42,6 @@ export default function Prefooter() {
                   >
                     <img
                       src={require("assets/img/chainlink-logo.png").default}
-                      style={{
-                        maxWidth:"100%"
-                      }} 
                       alt="Chainlink"
                     />
                   </Button>
@@ -74,9 +55,6 @@ export default function Prefooter() {
                   >
                     <img
                       src={require("assets/img/coingecko-logo.png").default}
-                      style={{
-                        maxWidth:"100%"
-                      }} 
                     />
                   </Button>
                 </Col>
@@ -103,9 +81,6 @@ export default function Prefooter() {
                   >
                     <img
                       src={require("assets/img/vulkania-logo.png").default}
-                      style={{
-                        maxWidth:"100%"
-                      }} 
                       alt="Vulkania"
                     />
                   </Button>
@@ -119,10 +94,7 @@ export default function Prefooter() {
                   >
                     <img
                       src={require("assets/img/derive-type.svg").default}
-                      style={{
-                        maxWidth:"100%"
-                      }} 
-                      alt="Chainlink"
+                      alt="Derive"
                     />
                   </Button>
                 </Col>

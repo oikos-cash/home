@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-oikos.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative oikos (https://www.creative-oikos.com)
-
-* Coded by Creative oikos
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
