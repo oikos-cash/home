@@ -34,15 +34,15 @@ export default function Headers() {
                       className="btn-default"
                       color="info"
                       href="https://minter.oikos.cash/"
-                      size="lg"
+                      size="md"
                       target="_blank"
                     >
-                      Enter Minter
+                      Minter
                     </Button>
                     <Button
                       className="btn-default mr-3"
                       href="https://oikos.exchange/"
-                      size="lg"
+                      size="md"
                       target="_blank"
                     >
                       Exchange
