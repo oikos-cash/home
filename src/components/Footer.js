@@ -8,9 +8,10 @@ import {
   Container,
   Row,
   Col,
-  Link,
   UncontrolledTooltip,
 } from "reactstrap";
+
+import { Link } from 'react-router-dom'
 
 export default function Footer() {
   return (
@@ -44,17 +45,11 @@ export default function Footer() {
             <Col md="3" xs="6">
               <Nav>
                 <NavItem>
-                  {/* <a href="/Terms">
+                  <Link to={"/Terms"}>
                     Terms of Use
-                  </a> */}
-                <Link to={"/Terms"}>
-                  Terms of Use
-                </Link>
+                  </Link>
                 </NavItem>
                 <NavItem>
-                  {/* <a href="/Privacy">
-                    Privacy Policy
-                  </a> */}
                   <Link to={"/Privacy"}>
                     Privacy Policy
                   </Link>
