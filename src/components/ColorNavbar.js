@@ -99,6 +99,20 @@ export default function ColorNavbar() {
                 Stats
               </a>
               <a 
+                href="https://dashboard.oikos.cash/"
+                className="nav-link text-white ml-3"
+                target="_blank"
+              >
+                Dashboard
+              </a>
+              <a 
+                href="https://bscscan.com/token/0x18aCf236eB40c0d4824Fb8f2582EBbEcD325Ef6a"
+                className="nav-link text-white ml-3"
+                target="_blank"
+              >
+                Token
+              </a>
+              <a 
                 href="https://docs.oikos.cash/"
                 className="nav-link text-white ml-3"
                 target="_blank"
@@ -106,18 +120,11 @@ export default function ColorNavbar() {
                 Docs
               </a>
               <a 
-                href="https://raw.githubusercontent.com/oikos-cash/oikos-bsc/master/audit/AUDIT.pdf"
+                href="https://github.com/oikos-cash/oikos-bsc/blob/master/audit/AUDIT.pdf"
                 className="nav-link text-white ml-3"
                 target="_blank"
               >
                 Audit
-              </a>
-              <a 
-                href="https://bscscan.com/token/0x18aCf236eB40c0d4824Fb8f2582EBbEcD325Ef6a"
-                className="nav-link text-white ml-3"
-                target="_blank"
-              >
-                BSCScan
               </a>
               <NavItem>
                 <Button
