@@ -16,7 +16,7 @@ import PrivacyMain from "privacy.js";
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/index" render={(props) => <Index {...props} />} />
+      <Route path="/" render={(props) => <Index {...props} />} />
       <Route path="/terms" render={(props) => <Terms {...props} />} />
       <Route path="/privacy" render={(props) => <PrivacyMain {...props} />} />
       <Route path="/404-error" render={(props) => <Error404 {...props} />} />
