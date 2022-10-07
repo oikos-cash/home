@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // styles
@@ -485,7 +469,7 @@ export default function Privacy() {
             reasonable fee for subsequent copies of data that User request.
           </p>
           <p className="text-bigger mb-5">
-            Any questions can be addressed to info@Oikos.cash
+            Any questions can be addressed to info@oikos.cash
           </p>
         </Container>
       </div>{" "}

@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
@@ -83,61 +67,6 @@ export default function Team() {
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/manuel_corona.jpg").default}
-                        />
-                      </a>
-                    </div>
-                  </CardHeader>
-                  <CardBody>
-                    <CardTitle tag="h3">Manuel Corona</CardTitle>
-                    <h4 className="text-info">Co-Founder & Marketing Expert</h4>
-                    <p className="card-description">
-                      Manuel had an early fascination with technology that led him to work with many talented people and co-found several technology projects. He is a skilled marketer, IT expert and his interests span from programming to distributed system design and of course, cryptocurrencies. His early vision for Oikos was determinant and he led the project from the idea phase to deployment.
-                    </p>
-                  </CardBody>
-                  <CardFooter>
-                    <div className="d-inline float-center d-md-block">
-                      <Button
-                        className="btn-icon btn-round"
-                        color="telegram"
-                        href="https://t.me/triloger"
-                        target="_blank"
-                      >
-                        <i className="fab fa-telegram" />
-                      </Button>
-                      {/* <Button
-                        className="btn-icon btn-round mr-1"
-                        color="github"
-                        href="#"
-                        onClick={(e) => e.preventDefault()}
-                      >
-                        <i className="fab fa-github" />
-                      </Button> */}
-                      <Button
-                        className="btn-icon btn-round mr-1"
-                        color="twitter"
-                        href="https://twitter.com/oikosman1"
-                        target="_blank"
-                      >
-                        <i className="fab fa-twitter" />
-                      </Button>
-                    </div>
-                  </CardFooter>
-                </Card>
-              </Col>
-              <Col md="4">
-                <Card className="card-profile profile-bg">
-                  <CardHeader
-                    // style={{
-                    //   backgroundImage:
-                    //   "linear-gradient(135deg, #3c3c3c, #1a1a1a",
-                    // }}
-                  >
-                    <div className="card-avatar">
-                      <a href="#pablo" onClick={(e) => e.preventDefault()}>
-                        <img
-                          alt="..."
-                          className="img-raised"
                           src={require("assets/img/albert_rodriguez.jpg").default}
                         />
                       </a>
@@ -168,14 +97,6 @@ export default function Team() {
                       >
                         <i className="fab fa-github" />
                       </Button>
-                      {/* <Button
-                        className="btn-icon btn-round mr-1"
-                        color="twitter"
-                        href="https://twitter.com/oikosman1"
-                        target="_blank"
-                      >
-                        <i className="fab fa-twitter" />
-                      </Button> */}
                     </div>
                   </CardFooter>
                 </Card>
@@ -223,14 +144,6 @@ export default function Team() {
                       >
                         <i className="fab fa-github" />
                       </Button>
-                      {/* <Button
-                        className="btn-icon btn-round mr-1"
-                        color="twitter"
-                        href="https://twitter.com/oikosman1"
-                        target="_blank"
-                      >
-                        <i className="fab fa-twitter" />
-                      </Button> */}
                     </div>
                   </CardFooter>
                 </Card>
