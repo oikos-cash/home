@@ -66,9 +66,6 @@ export default function Prefooter() {
                   >
                     <img
                       src={require("assets/img/coinmarketcap-logo.png").default}
-                      style={{
-                        maxWidth:"100%"
-                      }} 
                     />
                   </Button>
                 </Col>
@@ -93,7 +90,7 @@ export default function Prefooter() {
                     target="_blank"
                   >
                     <img
-                      src={require("assets/img/derive-type.svg").default}
+                      src={require("assets/img/derive-logo.png").default}
                       alt="Derive"
                     />
                   </Button>
@@ -106,11 +103,7 @@ export default function Prefooter() {
                     target="_blank"
                   >
                     <img
-                      src={require("assets/img/xt.png").default}
-                      style={{
-                        maxWidth:"80%",
-                        marginTop:"15%"
-                      }} 
+                      src={require("assets/img/xt-logo.png").default}
                       alt="XT.com"
                     />
                   </Button>
