@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 300 300"
+   height="70"
+   width="70"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg2343"
+   sodipodi:docname="oXAU-icon.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2347">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3057">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop3053" />
+      <stop
+         style="stop-color:#000080;stop-opacity:0;"
+         offset="1"
+         id="stop3055" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3057"
+       id="linearGradient3059"
+       x1="300.93637"
+       y1="300.67532"
+       x2="-0.087196276"
+       y2="1.3555155"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2345"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.5256875"
+     inkscape:cx="15.306684"
+     inkscape:cy="35.011839"
+     inkscape:window-width="1880"
+     inkscape:window-height="1016"
+     inkscape:window-x="40"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Main" />
+  <title
+     id="title2331">oXAU icon</title>
+  <g
+     class="nc-icon-wrapper"
+     id="g2341">
+    <g
+       id="Main">
+      <circle
+         class="st0"
+         cx="150"
+         cy="150"
+         r="150"
+         fill="#234CAA"
+         id="circle2333" />
+      <circle
+         class="st0"
+         cx="150"
+         cy="150"
+         r="150"
+         fill="#234CAA"
+         id="circle2619"
+         style="fill:url(#linearGradient3059);fill-opacity:1" />
+      <g
+         id="Logo">
+        <path
+           class="st1"
+           id="XMLID_1_"
+           d="M175.5 101.5h-10v97h10z"
+           fill="#FFFFFF" />
+        <path
+           class="st1"
+           d="M145.1 111.5v77.1H68v-77.1h77.1m10-10H58v97.1h97.1v-97.1z"
+           id="XMLID_2_"
+           fill="#FFFFFF" />
+      </g>
+    </g>
+    <g
+       id="Currency">
+      <path
+         id="XAU_1_"
+         class="st1"
+         d="M204 187.2l-15.6 10.9V189l10-6.9-10-7v-8.2l15.6 10.9 16.3-11.4v9.1l-10.7 7.4 10.7 7.6v8.1L204 187.2zm16.3-21.8l-31.9-12.8v-9l31.9-12.7v8l-7 2.7V155l7 2.7v7.7zM207.8 153v-9.2l-12.1 4.6 12.1 4.6zm-19.4-30.3h18.5c2.6 0 4.5-.5 5.8-1.6s2-2.8 2-5.2c0-2.4-.7-4.1-2-5.2s-3.2-1.7-5.8-1.7h-18.5v-7.5h18.1c4.6 0 8 1.2 10.4 3.7 2.4 2.4 3.6 6 3.6 10.7s-1.2 8.2-3.6 10.7c-2.4 2.4-5.9 3.6-10.4 3.6h-18.1v-7.5z"
+         fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>

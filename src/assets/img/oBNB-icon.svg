@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 75 75"
+   height="80"
+   width="80"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg3051"
+   sodipodi:docname="oBNB-icon.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3055">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="-53.446999"
+       y1="146.10899"
+       x2="155.89101"
+       y2="355.44699"
+       gradientTransform="matrix(1.0088474,0,0,1.0088474,98.097445,-103.48746)">
+      <stop
+         offset="0"
+         stop-color="#64B964"
+         id="stop1958" />
+      <stop
+         offset=".5"
+         stop-color="#45992F"
+         id="stop1960" />
+    </linearGradient>
+  </defs>
+  <circle
+     class="st0"
+     cx="149.75043"
+     cy="149.53146"
+     fill="url(#SVGID_1_)"
+     id="circle1963"
+     style="fill:url(#SVGID_1_);stroke-width:1.00885"
+     r="149.30942" />
+  <sodipodi:namedview
+     id="namedview3053"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.55"
+     inkscape:cx="24.028436"
+     inkscape:cy="40"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3049" />
+  <title
+     id="title3041">oBNB icon</title>
+  <g
+     class="nc-icon-wrapper"
+     id="g3049">
+    <g
+       id="Logo">
+      <path
+         class="st1"
+         id="XMLID_1_"
+         d="M175.5 101.5h-10v97h10z"
+         fill="#FFFFFF" />
+      <path
+         class="st1"
+         d="M145.1 111.5v77.1H68v-77.1h77.1m10-10H58v97.1h97.1v-97.1z"
+         id="XMLID_2_"
+         fill="#FFFFFF" />
+    </g>
+    <path
+       class="st1"
+       d="M186.6 184.9c0-4.2.8-7.4 2.5-9.7 1.6-2.3 4-3.4 7-3.4 2.2 0 4 .6 5.4 1.8s2.3 3 2.7 5.2c.3-2.7 1.2-4.7 2.6-6.2 1.4-1.5 3.3-2.2 5.7-2.2 3.1 0 5.6 1.2 7.4 3.6 1.8 2.4 2.7 5.8 2.7 10.2v14.3h-35.9l-.1-13.6zm14.7 5.9v-6.2c0-1.6-.4-2.9-1.2-3.8s-1.8-1.4-3.2-1.4-2.4.5-3.2 1.4-1.2 2.2-1.2 3.8v6.2h8.8zm15 0v-6.7c0-1.8-.4-3.3-1.2-4.3s-1.9-1.5-3.3-1.5c-1.5 0-2.6.5-3.4 1.5-.8 1-1.2 2.4-1.2 4.3v6.7h9.1zm6.1-25.4h-35.9v-7l22.6-15.2h-22.6v-7.6h35.9v7l-22.6 15.2h22.6v7.6zm-35.8-49.5c0-4.2.8-7.4 2.5-9.7 1.6-2.3 4-3.4 7-3.4 2.2 0 4 .6 5.4 1.8 1.4 1.2 2.3 3 2.7 5.2.3-2.7 1.2-4.7 2.6-6.2 1.4-1.5 3.3-2.2 5.7-2.2 3.1 0 5.6 1.2 7.4 3.6 1.8 2.4 2.7 5.8 2.7 10.2v14.3h-35.9l-.1-13.6zm14.7 5.9v-6.2c0-1.6-.4-2.9-1.2-3.8s-1.8-1.4-3.2-1.4-2.4.5-3.2 1.4-1.2 2.2-1.2 3.8v6.2h8.8zm15 0v-6.7c0-1.8-.4-3.3-1.2-4.3s-1.9-1.5-3.3-1.5c-1.5 0-2.6.5-3.4 1.5-.8 1-1.2 2.4-1.2 4.3v6.7h9.1z"
+       id="Text"
+       fill="#FFFFFF" />
+  </g>
+</svg>

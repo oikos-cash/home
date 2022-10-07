@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 75 75"
+   height="70"
+   width="70"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg3232"
+   sodipodi:docname="oBTC-icon.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3236">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="-53.446999"
+       y1="146.10899"
+       x2="155.89101"
+       y2="355.44699"
+       gradientTransform="matrix(1.0123029,0,0,1.0123029,98.36892,-103.5035)">
+      <stop
+         offset="0"
+         stop-color="#64B964"
+         id="stop1958" />
+      <stop
+         offset=".5"
+         stop-color="#45992F"
+         id="stop1960" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3234"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.057143"
+     inkscape:cx="21.10782"
+     inkscape:cy="35"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Main" />
+  <circle
+     class="st0"
+     cx="150.19884"
+     cy="150.38206"
+     r="149.82083"
+     fill="url(#SVGID_1_)"
+     id="circle1963"
+     style="fill:url(#SVGID_1_);stroke-width:1.0123" />
+  <title
+     id="title3220">oBTC icon</title>
+  <g
+     class="nc-icon-wrapper"
+     id="g3230">
+    <g
+       id="Main">
+      <g
+         id="Logo">
+        <path
+           class="st1"
+           id="XMLID_1_"
+           d="M175.5 101.5h-10v97h10z"
+           fill="#FFFFFF" />
+        <path
+           class="st1"
+           d="M145.1 111.5v77.1H68v-77.1h77.1m10-10H58v97.1h97.1v-97.1z"
+           id="XMLID_2_"
+           fill="#FFFFFF" />
+      </g>
+      <path
+         class="st1"
+         d="M185.4 183.9c0-4.5.9-7.9 2.6-10.4 1.8-2.5 4.3-3.7 7.5-3.7 2.4 0 4.3.7 5.8 2s2.4 3.2 2.9 5.6c.4-2.9 1.3-5.1 2.7-6.6 1.5-1.6 3.5-2.3 6.2-2.3 3.4 0 6 1.3 7.9 3.8s2.9 6.2 2.9 10.9v15.3h-38.5v-14.6zm15.9 6.3v-6.6c0-1.8-.4-3.1-1.3-4.1-.8-1-2-1.5-3.4-1.5s-2.6.5-3.4 1.5-1.3 2.4-1.3 4.1v6.6h9.4zm16.1 0v-7.1c0-2-.4-3.5-1.3-4.6-.8-1.1-2-1.6-3.5-1.6-1.6 0-2.8.5-3.7 1.6s-1.3 2.6-1.3 4.6v7.1h9.8zm-32-22.4v-30.5h7.1v11.1h31.4v8.2h-31.4v11.1l-7.1.1zm19.3-30.8c-3.9 0-7.4-.8-10.3-2.3-3-1.5-5.2-3.7-6.8-6.5s-2.4-6.2-2.4-10c0-3 .6-5.7 1.8-8.1s2.8-4.3 4.9-5.8c2.1-1.5 4.6-2.3 7.4-2.6v8.2c-2.2.5-3.9 1.5-5.2 3s-1.9 3.4-1.9 5.7c0 3.1 1.2 5.5 3.5 7.3s5.4 2.7 9.1 2.7 6.8-.9 9.1-2.7c2.3-1.8 3.5-4.2 3.5-7.3 0-2.3-.6-4.2-1.9-5.7s-3-2.5-5.2-3v-8.2c2.8.3 5.2 1.2 7.4 2.6s3.8 3.4 4.9 5.8c1.2 2.4 1.8 5.1 1.8 8.1 0 3.8-.8 7.2-2.4 10s-3.9 5-6.8 6.5c-3.2 1.5-6.6 2.3-10.5 2.3z"
+         fill="#FFFFFF"
+         id="path3227" />
+    </g>
+  </g>
+</svg>

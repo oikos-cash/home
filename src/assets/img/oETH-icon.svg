@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new -329 131 300 300"
+   height="70"
+   width="70"
+   viewBox="-329 131 300 300"
+   version="1.1"
+   id="svg3513"
+   sodipodi:docname="oETH-icon.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3517">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="-53.446999"
+       y1="146.10899"
+       x2="155.89101"
+       y2="355.44699"
+       gradientTransform="matrix(1.010506,0,0,1.010506,-230.72466,27.804036)">
+      <stop
+         offset="0"
+         stop-color="#64B964"
+         id="stop1958" />
+      <stop
+         offset=".5"
+         stop-color="#45992F"
+         id="stop1960" />
+    </linearGradient>
+  </defs>
+  <circle
+     class="st0"
+     cx="-178.98676"
+     cy="281.23895"
+     r="149.55489"
+     fill="url(#SVGID_1_)"
+     id="circle1963"
+     style="fill:url(#SVGID_1_);stroke-width:1.01051" />
+  <sodipodi:namedview
+     id="namedview3515"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.057143"
+     inkscape:cx="21.10782"
+     inkscape:cy="37.488152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3511" />
+  <title
+     id="title3504">
+        oETH icon
+    </title>
+  <g
+     class="nc-icon-wrapper"
+     id="g3511"
+     transform="translate(2.188848,0.00232136)">
+    <path
+       class="st1"
+       d="m -145.6,329.5 v -26.1 h 7.2 v 17.8 h 8.7 v -14.4 h 6.8 v 14.4 h 9 v -18.4 h 7.2 v 26.7 z m 0,-29.6 v -30.8 h 7.2 v 11.2 h 31.7 v 8.3 h -31.7 v 11.2 h -7.2 z m 0,-35.3 v -8.3 h 15.6 v -15.4 h -15.6 v -8.3 h 38.8 v 8.3 h -16 v 15.4 h 16 v 8.3 z"
+       fill="#ffffff"
+       id="path3507" />
+    <path
+       class="st1"
+       d="m -185.9,242.5 v 77.1 H -263 v -77.1 h 77.1 m 10,-10 H -273 v 97.1 h 97.1 z"
+       id="XMLID_2_"
+       fill="#ffffff" />
+    <path
+       class="st1"
+       id="XMLID_1_"
+       d="m -155.5,232.5 h -10 v 97 h 10 z"
+       fill="#ffffff" />
+  </g>
+</svg>
