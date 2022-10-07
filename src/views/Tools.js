@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 import stats from 'assets/img/stats.png'
 
@@ -49,7 +33,7 @@ export default function Tools() {
             </Row>
             <div className="space-50" />
             <Row>
-              <Col lg="3">
+              {/* <Col lg="2">
                 <Card
                   className="card-background"
                   style={{
@@ -63,7 +47,7 @@ export default function Tools() {
                     <h6 className="card-category">
                     </h6>
                     <a href="https://minter.oikos.cash/" target="_blank">
-                      <CardTitle tag="h2">Minter</CardTitle>
+                      <CardTitle tag="h3">Minter</CardTitle>
                     </a>
                     <h6 className="desc">dApp</h6>
                     <Button
@@ -75,8 +59,8 @@ export default function Tools() {
                     </Button>
                   </CardBody>
                 </Card>
-              </Col>
-              <Col lg="3">
+              </Col> */}
+              {/* <Col lg="2">
                 <Card
                   className="card-background"
                   style={{
@@ -90,7 +74,7 @@ export default function Tools() {
                     <h6 className="card-category">
                     </h6>
                     <a href="https://oikos.exchange" target="_blank">
-                      <CardTitle tag="h2">Exchange</CardTitle>
+                      <CardTitle tag="h3">Exchange</CardTitle>
                     </a>
                     <h6 className="desc">Dapp</h6>
                     <Button
@@ -102,8 +86,8 @@ export default function Tools() {
                     </Button>
                   </CardBody>
                 </Card>
-              </Col>
-              <Col lg="3">
+              </Col> */}
+              <Col lg="4">
                 <Card
                   className="card-background"
                   style={{
@@ -117,7 +101,7 @@ export default function Tools() {
                     <h6 className="card-category">
                     </h6>
                     <a href="https://stats.oikos.cash/" target="_blank">
-                      <CardTitle tag="h2">Stats</CardTitle>
+                      <CardTitle tag="h3">Stats</CardTitle>
                     </a>
                     <h6 className="desc">Analytics</h6>
                     <Button
@@ -130,12 +114,39 @@ export default function Tools() {
                   </CardBody>
                 </Card>
               </Col>
-              <Col lg="3">
+              <Col lg="4">
                 <Card
                   className="card-background"
                   style={{
                     backgroundImage:
-                    "url(" + require("assets/img/userGuide.png").default + ")",
+                    "url(" + require("assets/img/distribution.png").default + ")",
+                    backgroundPosition:
+                      "right",
+                  }}
+                >
+                  <CardBody className="text-left">
+                    <h6 className="card-category">
+                    </h6>
+                    <a href="https://dashboard.oikos.cash/" target="_blank">
+                      <CardTitle tag="h3">Dashboard</CardTitle>
+                    </a>
+                    <h6 className="desc">Distribution</h6>
+                    <Button
+                      color="info"
+                      href="https://dashboard.oikos.cash/"
+                      target="_blank"
+                    >
+                      Visit
+                    </Button>
+                  </CardBody>
+                </Card>
+              </Col>  
+              <Col lg="4">
+                <Card
+                  className="card-background"
+                  style={{
+                    backgroundImage:
+                    "url(" + require("assets/img/learn.png").default + ")",
                     backgroundPosition:
                       "right",
                   }}
@@ -144,7 +155,7 @@ export default function Tools() {
                     <h6 className="card-category">
                     </h6>
                     <a href="https://learn.oikos.cash/" target="_blank">
-                      <CardTitle tag="h2">User Guide</CardTitle>
+                      <CardTitle tag="h3">User Guide</CardTitle>
                     </a>
                     <h6 className="desc">Tutorials</h6>
                     <Button
