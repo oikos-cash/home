@@ -1,19 +1,3 @@
-/*!
-
-=========================================================
-* BLK Design System PRO React - v1.2.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/blk-design-system-pro-react
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 // reactstrap components
 import {
@@ -49,19 +33,19 @@ export default function Headers() {
                     <Button
                       className="btn-default"
                       color="info"
-                      href="https://pancakeswap.finance/swap/0x18aCf236eB40c0d4824Fb8f2582EBbEcD325Ef6a?inputCurrency=BNB"
-                      size="lg"
-                      target="_blank"
-                    >
-                      Buy OKS
-                    </Button>
-                    <Button
-                      className="btn-default mr-3"
                       href="https://minter.oikos.cash/"
                       size="lg"
                       target="_blank"
                     >
-                      <p>Enter DaPP</p>
+                      Enter Minter
+                    </Button>
+                    <Button
+                      className="btn-default mr-3"
+                      href="https://oikos.exchange/"
+                      size="lg"
+                      target="_blank"
+                    >
+                      Exchange
                     </Button>
                   </div>
                 </Col>
