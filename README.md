@@ -1,4 +1,4 @@
-# Home V2
+# Homepage
 
 Oikos Cash homepage v2 design in React.js.
 
