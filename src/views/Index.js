@@ -41,7 +41,6 @@ export default function Sections() {
         <Highlights />
         <Synths />
         <Tools />
-        <Roadmap />
         <PreFooter />
         <FAQ />
         <Footer />
