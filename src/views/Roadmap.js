@@ -13,23 +13,73 @@ export const Roadmap = () =>
       aggregateBy="year"
       data={[
         {
-          title: 'V3 Launch',
+          title: 'Q4 2022',
+          textStyle: {
+            color: '#f8bd45'
+          },
           year: 1
         },
         {
-          title: 'Chainlink Feeds',
+          title: 'V3 Launch',
+          textStyle: {
+            color: '#ffffff'
+          },
+          year: 1
+        },
+        {
+          title: 'Q4 2022',
+          textStyle: {
+            color: '#f8bd45'
+          },
           year: 2
         },
         {
-          title: 'Multichain Contracts',
+          title: 'Chainlink Feeds',
+          textStyle: {
+            color: '#fff'
+          },
+          year: 2
+        },
+        {
+          title: 'Q4 2022',
+          textStyle: {
+            color: '#f8bd45'
+          },
           year: 3
         },
         {
-          title: 'Polygon Launch',
+          title: 'Multichain Contracts',
+          textStyle: {
+            color: '#fff'
+          },
+          year: 3
+        },
+        {
+          title: 'Q1 2023',
+          textStyle: {
+            color: '#f8bd45'
+          },
           year: 4
         },
         {
+          title: 'Polygon Launch',
+          textStyle: {
+            color: '#fff'
+          },
+          year: 4
+        },
+        {
+          title: 'Q1 2023',
+          textStyle: {
+            color: '#f8bd45'
+          },
+          year: 5
+        },
+        {
           title: 'Expansion',
+          textStyle: {
+            color: '#fff'
+          },
           year: 5
         }
       ]}
@@ -39,7 +89,6 @@ export const Roadmap = () =>
       }}
       parseTime="%Y"
       optimize
-      // orientation="vertical"
     />
   </Container>
 ;
