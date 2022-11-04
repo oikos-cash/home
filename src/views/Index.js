@@ -5,7 +5,6 @@ import Header from "./Header.js";
 import Content from "./Content.js";
 import Highlights from "./Highlights.js";
 import Tools from "./Tools.js";
-import Roadmap from "./Roadmap.js";
 import FAQ from "./FAQ.js";
 import Synths from "./Synths.js";
 import PreFooter from "./PreFooter.js";
