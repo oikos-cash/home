@@ -24,11 +24,11 @@
        gradientTransform="matrix(1.0088474,0,0,1.0088474,98.097445,-103.48746)">
       <stop
          offset="0"
-         stop-color="#64B964"
+         stop-color="#f8bd45"
          id="stop1958" />
       <stop
          offset=".5"
-         stop-color="#45992F"
+         stop-color="#c29a2c"
          id="stop1960" />
     </linearGradient>
   </defs>

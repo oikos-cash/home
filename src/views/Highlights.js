@@ -88,9 +88,7 @@ export default function Highlights() {
                       Documentation{" "}
                     </h3>
                     <p>
-                    Join liquidity pools to collect fees on BNB-BEP20 pairs. Trade BNB for any BEP20 without wrapping.
-
-                    Liquidity-sensitive automated pricing using constant product formula.
+                    Join liquidity pools to collect fees and trade BNB for any BEP20 without wrapping. <br/> Liquidity-sensitive automated pricing using constant product formula.
                     </p>
                   </div>
                 </div>

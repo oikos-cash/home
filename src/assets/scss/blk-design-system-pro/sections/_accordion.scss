@@ -5,9 +5,10 @@
     .card{
       margin-top: 0;
       box-shadow: none;
-      border-bottom: 1px solid !important;
+      border-bottom: 1px solid #c29a2c !important;
       &:last-child{
         border-bottom: none !important;
+        color: #b9b9b9;
       }
       .card-header{
         padding: 10px 15px;
