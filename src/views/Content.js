@@ -35,7 +35,7 @@ export default function Content() {
                   <strong>On Binance Smart Chain (BSC)</strong>
                 </h5>
                 <p className="description">
-                  {`Synthetic asset platform that provides on-chain exposure to fiat currencies, commodities, stocks, and indices. Synthetic assets (Synths) are backed by Oikos Network Tokens (OKS) locked into a smart contract as collateral.`}
+                  {`Synthetic asset platform that provides on-chain exposure to synthetic derivatives of fiat currencies and crypto-native assets. Synthetic assets (Synths) are backed by Oikos Network Tokens (OKS) locked into a smart contract as collateral.`}
                 </p>
                 <br/>
                 <p className="description">

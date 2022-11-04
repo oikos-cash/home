@@ -112,7 +112,7 @@ export default function ColorNavbar() {
               </a>
               <NavItem>
                 <Button
-                  className="nav-link ml-3"
+                  className="nav-link"
                   color="info"
                   href="https://minter.oikos.cash/"
                   size="sm"
@@ -121,7 +121,7 @@ export default function ColorNavbar() {
                   <p>Minter</p>
                 </Button>
                 <Button
-                  className="nav-link ml-3"
+                  className="nav-link"
                   color="default"
                   href="https://oikos.exchange"
                   size="sm"

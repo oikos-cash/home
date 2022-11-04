@@ -112,7 +112,7 @@
 .btn-success { @include btn-styles($success, $success-states);
 
               }
-.btn-info    { @include btn-styles($info, $dark);
+.btn-info    { @include btn-styles($info, $warning);
 
               }
 .btn-warning { @include btn-styles($warning, $warning-states);
